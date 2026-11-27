@@ -7,6 +7,7 @@ Standard library only; no input, no network, no randomness.
 
 import os
 
+# One deadpan post-mortem line, kept under the 200-character cap.
 EXCUSE = (
     "Post-mortem complete. Root cause: me. "
     "I have filed a formal complaint against myself, "
